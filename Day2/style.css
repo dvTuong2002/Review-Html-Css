@@ -16,7 +16,6 @@ body{
     justify-content: center;
     align-items: center;
     font-family: "Poppins";
-    margin-left: 10%;
 }
 
 .card{
@@ -52,6 +51,7 @@ h2{
 
 p{
     color: var(--primary-color);
+    font-size: 20px;
 }
 
 .social a i{
